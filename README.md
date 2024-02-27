@@ -23,7 +23,7 @@ Before running the application, you need to have the following:
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/YouTubePlaylistAnalyzer.git
+git clone https://github.com/MISHRA-TUSHAR/YT-playlist-length-calculator.git
  ```
 
 Create a .env file in the root directory and add your YouTube Data API key:
