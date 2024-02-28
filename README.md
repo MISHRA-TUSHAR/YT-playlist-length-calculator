@@ -10,8 +10,6 @@ YouTube Playlist Analyzer is a tool that retrieves information about a YouTube p
 - Calculate total duration of the playlist
 - Display duration at different playback speeds
 
-## Getting Started
-
 ### Prerequisites
 
 Before running the application, you need to have the following:
